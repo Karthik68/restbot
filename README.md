@@ -49,6 +49,7 @@ Constraints
 Example Input and Output
 ------------------------
 I) Program Argument Input & Console Output:
+===================
 
    Run com.bot.spring.rest.SpringRestBotApplication main class with run configuration program arguments as below
 
@@ -83,6 +84,7 @@ Expected output
     3,3,NORTH
 
 II) Program Argument Input & Console Output:
+===================
 
    Run com.bot.spring.rest.SpringRestBotApplication main class with run configuration program arguments as below
 
@@ -94,6 +96,7 @@ Expected output (Based on Commands Added in Input.txt):
     0,1,NORTH
     
 III) Java Console Input & Output:
+===================
 ### Example a
 
     PLACE 0,0,NORTH
